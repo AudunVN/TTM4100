@@ -2,8 +2,8 @@ import socket
 import mimetypes
 
 # Server config
-serverPort = 4471
 serverAddress = "127.0.0.1" # socket.gethostname()
+serverPort = 4471
 maxConnections = 1
 
 # Start server
